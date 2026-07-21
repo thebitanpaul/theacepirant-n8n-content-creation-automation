@@ -309,3 +309,11 @@ Build **TheAcepirant** into a scalable AI-first motivational media brand capable
 
 This project is licensed under the [Apache-2.0](LICENSE).
 See the LICENSE file for full license text.
+
+---
+
+<div align="center">
+
+**2026 · © phiUture · All Rights Reserved**
+
+</div>
