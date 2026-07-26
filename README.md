@@ -305,7 +305,7 @@ Build **TheAcepirant** into a scalable AI-first motivational media brand capable
 
 ---
 
-# 📄 License
+# License
 
 This project is licensed under the [Apache-2.0](LICENSE).
 See the LICENSE file for full license text.
