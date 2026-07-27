@@ -1,6 +1,6 @@
 # TheAcepirant
 
-> **An AI-powered motivational media engine that never stops creating.**
+> An AI-powered motivational media engine that never stops creating.
 
 <img alt="Hero Image" src="https://res.cloudinary.com/b0tb1mho/image/upload/v1784621250/vf3zn5acvemnopmyjkci.webp"/>
 
@@ -8,7 +8,7 @@ TheAcepirant is a fully automated AI-powered content creation engine that contin
 
 ---
 
-# 📖 Overview
+## Overview
 
 Creating motivational short-form content consistently requires:
 
@@ -24,80 +24,72 @@ TheAcepirant automates the entire workflow—from content discovery to publishin
 
 ---
 
-# ✨ Features
+## Features
 
-- 🔍 Reddit Content Discovery
-- 🧹 Smart Content Filtering
-- 🎲 Randomized Story Selection
-- 🤖 AI Script Generation using Google Gemini
-- 🎬 Automated Video Creation
-- ⏳ Rendering Status Monitoring
-- 📤 Multi-Platform Publishing
-- 🔄 Automatic Retry Logic
-- ☁️ GitHub Temporary Media Hosting
-- 🗑 Automatic Cleanup
-- ⏰ Scheduled Automation Every 4 Hours
-- 📄 Structured AI Output Parsing
+- Reddit Content Discovery
+- Smart Content Filtering
+- Randomized Story Selection
+- AI Script Generation using Google Gemini
+- Automated Video Creation
+- Rendering Status Monitoring
+- Multi-Platform Publishing
+- Automatic Retry Logic
+- GitHub Temporary Media Hosting
+- Automatic Cleanup
+- Scheduled Automation Every 4 Hours
+- Structured AI Output Parsing
 
 ---
 
-# 🎥 Demo
+## Demo
 
 ### Full Workflow
 
-https://youtube.com/shorts/XJHugJ0Fdqc?si=J8aDyvLcbJ67w7lL
+<a href="https://youtube.com/shorts/XJHugJ0FqdC?si=J8aDyvLcbJ67w7lL" target="_blank">
+<img src="https://img.youtube.com/vi/XJHugJ0FqdC/hqdefault.jpg" width="1080"/>
+</a>
 
 ---
 
-# 🌐 Live Channels
+## Live Channels
 
-### YouTube
+<div align="center">
 
-https://www.youtube.com/@theacepirant
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@theacepirant)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/theacepirant)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61578929849808)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thebitanpaul/theacepirant)
 
-### Instagram
+</div>
 
-https://www.instagram.com/theacepirant
 
-### Facebook
+## Gallery
 
-https://www.facebook.com/profile.php?id=61578929849808
+### YouTube Shorts Demo
 
----
+<a href="https://youtube.com/shorts/Ded5Yg229fc?si=Rk4goaImsZ2qwiJl" target="_blank">
+<img src="https://img.youtube.com/vi/Ded5Yg229fc/hqdefault.jpg" width="1080"/>
+</a>
 
-# 💻 Repository
+### Instagram Reel
 
-https://github.com/thebitanpaul/theacepirant-n8n-content-creation-automation
+<a href="https://www.instagram.com/reel/DNwA6f9xDW0/?igsh=MWJseDdzYnJnNTd3ZQ==" target="_blank">
+<img src="https://res.cloudinary.com/b0tb1mho/image/upload/v1784621250/vf3zn5acvemnopmyjkci.webp" width="1080"/>
+</a>
 
----
+### Facebook Reel
 
-# 🖼 Gallery
+<a href="https://www.facebook.com/share/r/1Yw2XKsGja/?mibextid=wwXIfr" target="_blank">
+<img src="https://res.cloudinary.com/b0tb1mho/image/upload/v1784621250/vf3zn5acvemnopmyjkci.webp" width="1080"/>
+</a>
 
-## YouTube Shorts Demo
-
-https://youtube.com/shorts/Ded5Yg229fc?si=Rk4goaImsZ2qwiJl
-
----
-
-## Instagram Reel
-
-https://www.instagram.com/reel/DNwA6f9xDW0/?igsh=MWJseDdzYnJnNTd3ZQ==
-
----
-
-## Facebook Reel
-
-https://www.facebook.com/share/r/1Yw2XKsGja/?mibextid=wwXIfr
-
----
-
-## Successful Workflow Run
+### Successful Workflow Run
 
 <img alt="Workflow Success" src="https://res.cloudinary.com/b0tb1mho/image/upload/v1784620561/a3gcm1lb0uvmbhgt0qqj.webp"/>
 
 ---
 
-# 🛠 Tech Stack
+## Tech Stack
 
 - n8n
 - Google Gemini
@@ -112,7 +104,7 @@ https://www.facebook.com/share/r/1Yw2XKsGja/?mibextid=wwXIfr
 
 ---
 
-# ⚙ Workflow Architecture
+## Workflow Architecture
 
 ```
 Schedule Trigger
@@ -152,7 +144,7 @@ Cleanup Temporary Files
 
 ---
 
-# 🔄 Complete Workflow
+## Complete Workflow
 
 1. Trigger automatically every four hours.
 2. Fetch trending motivational stories from Reddit.
@@ -169,7 +161,7 @@ Cleanup Temporary Files
 
 ---
 
-# 📊 Data Flow
+## Data Flow
 
 ```
 Schedule Trigger
@@ -201,7 +193,7 @@ Cleanup
 
 ---
 
-# 📈 KPIs
+## KPIs
 
 | Metric | Value |
 |---------|------:|
@@ -213,7 +205,7 @@ Cleanup
 
 ---
 
-# 📊 Project Metrics
+## Project Metrics
 
 | Metric | Value |
 |---------|------:|
@@ -224,7 +216,7 @@ Cleanup
 
 ---
 
-# 💡 Problem
+## Problem
 
 Producing motivational short-form content consistently requires researching stories, writing scripts, generating videos, publishing to multiple platforms, and managing media assets.
 
@@ -232,7 +224,7 @@ Doing this manually is repetitive, expensive, and difficult to scale.
 
 ---
 
-# ✅ Solution
+## Solution
 
 TheAcepirant automates the complete content pipeline by:
 
@@ -244,13 +236,13 @@ TheAcepirant automates the complete content pipeline by:
 
 ---
 
-# 🏗 Architecture
+## Architecture
 
-A scheduled **n8n** workflow orchestrates the entire automation pipeline by retrieving trending Reddit stories, filtering and randomizing content, generating AI narrations with Google Gemini, creating videos through an MCP video generation service, monitoring rendering status, publishing to YouTube Shorts, Instagram Reels, and Facebook Reels, temporarily hosting media on GitHub when required, and finally cleaning temporary assets after successful publishing.
+A scheduled n8n workflow orchestrates the entire automation pipeline by retrieving trending Reddit stories, filtering and randomizing content, generating AI narrations with Google Gemini, creating videos through an MCP video generation service, monitoring rendering status, publishing to YouTube Shorts, Instagram Reels, and Facebook Reels, temporarily hosting media on GitHub when required, and finally cleaning temporary assets after successful publishing.
 
 ---
 
-# ⚠ Challenges
+## Challenges
 
 - Handling asynchronous rendering
 - Waiting for Meta processing
@@ -261,7 +253,7 @@ A scheduled **n8n** workflow orchestrates the entire automation pipeline by retr
 
 ---
 
-# 🧠 Insights
+## Insights
 
 - AI-generated motivational content enables continuous publishing.
 - Polling greatly improves asynchronous reliability.
@@ -271,7 +263,7 @@ A scheduled **n8n** workflow orchestrates the entire automation pipeline by retr
 
 ---
 
-# 🔍 Key Findings
+## Key Findings
 
 - Reddit consistently provides authentic motivational stories.
 - AI rewriting improves narration quality.
@@ -281,39 +273,38 @@ A scheduled **n8n** workflow orchestrates the entire automation pipeline by retr
 
 ---
 
-# 🎯 Outcome
+## Outcome
 
 TheAcepirant functions as a fully autonomous AI media engine capable of continuously discovering, generating, and publishing motivational content around the clock with minimal human involvement.
 
 ---
 
-# 🚀 Motivation
+## Motivation
 
-Build **TheAcepirant** into a scalable AI-first motivational media brand capable of continuously producing, publishing, and growing high-quality inspirational content across every major short-form platform.
+Build TheAcepirant into a scalable AI-first motivational media brand capable of continuously producing, publishing, and growing high-quality inspirational content across every major short-form platform.
 
 ---
 
-# 📌 Status
+## Status
 
 **Prototype**
 
 ---
 
-# 📅 Year
+## Year
 
 2025
 
 ---
 
-# License
+## License
 
-This project is licensed under the [Apache-2.0](LICENSE).
+This project is licensed under the [Apache-2.0](LICENSE).  
 See the LICENSE file for full license text.
 
 ---
 
 ## About phiUture
-
 
 Welcome to phiUture — Beautiful Technology. Centered Around You. Shaping Tomorrow.
 
@@ -321,7 +312,7 @@ Inspired by the Golden Ratio (φ), our name represents beautiful, intelligent en
 
 phiUture is an AI-first software company creating intelligent products, automation systems, and modern digital experiences. This channel documents the journey of building practical AI solutions, from concept to deployment.
 
-```text
+```
 Here you'll find:
 • AI applications and product demos
 • AI agents and automation workflows
@@ -342,7 +333,7 @@ Here you'll find:
 | [![Snapchat](https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=000000)](https://snapchat.com/t/UgO0Iywr) |  | [![JioSaavn](https://img.shields.io/badge/JioSaavn-2BC5B4?style=for-the-badge&logo=jiosaavn&logoColor=white)](https://www.jiosaavn.com/artist/thebitanpaul-songs/zuo0NgC65gQ_) |
 | [![Email](https://img.shields.io/badge/Personal_Email-thebitanpaul%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thebitanpaul@gmail.com) |  |  |
 
-
+---
 
 <div align="center">
 
