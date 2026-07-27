@@ -39,15 +39,6 @@ TheAcepirant automates the entire workflow—from content discovery to publishin
 - Scheduled Automation Every 4 Hours
 - Structured AI Output Parsing
 
----
-
-## Demo
-
-### Full Workflow
-
-<a href="https://youtube.com/shorts/XJHugJ0FqdC?si=J8aDyvLcbJ67w7lL" target="_blank">
-<img src="https://img.youtube.com/vi/XJHugJ0FqdC/hqdefault.jpg" width="1080"/>
-</a>
 
 ---
 
